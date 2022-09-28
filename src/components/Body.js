@@ -1,7 +1,6 @@
 import React from "react";
 
 function Body(props){
-    console.log(props)
     return(
         <div className="continer">
             <img
